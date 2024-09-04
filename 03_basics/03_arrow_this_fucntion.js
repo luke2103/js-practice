@@ -44,7 +44,7 @@ const chai = () =>{
 // chai()
 
 
-// const addTwo = (num1, num2) => {
+// const addTwo = (num1, num2) => { //if we add { } return statement is must
 //     return num1+num2
 // }
 
